@@ -1,122 +1,82 @@
 <div align="center">
 
-# Nguyen Tuan Khoi
+![Nguyen Tuan Khoi — Finance, Data & Automation](./profile-banner.png)
 
 ### Finance & Data Analytics · Power BI · AI Automation
 
-I combine financial analysis, business performance thinking, and automation to turn complex data into clear, controlled decisions.
+I turn financial and operational data into controlled analysis, clear stories, and practical management action.
 
-[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-D8FF4F?style=for-the-badge&logoColor=141414)](https://tuan-khoi-portfolio.roninoah155a2.chatgpt.site)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-D8FF4F?style=for-the-badge&logoColor=141414)](https://tuan-khoi-portfolio.roninoah155a2.chatgpt.site)
+[![Power BI Case Study](https://img.shields.io/badge/POWER_BI_CASE-F2C811?style=for-the-badge&logo=powerbi&logoColor=141414)](https://github.com/TuanKhoi2411/power-bi-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-khoi-nguyen)
 [![Email](https://img.shields.io/badge/EMAIL-141414?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuankhoi24112003@gmail.com)
 
+[Featured project](#featured-project) · [Experience proof](#experience-proof) · [Toolkit](#toolkit) · [Roadmap](#roadmap) · [Contact](#contact)
+
 </div>
 
 ---
 
-## Professional focus
+## Recruiter scan — 30 seconds
 
-Finance and data analytics professional experienced in commission operations, FP&A partnership, P&L analysis, controls, and AI-enabled process automation.
-
-- Lead commission closing cycles for 30+ managers across SEA and Italy, covering approximately EUR 500K annually
-- Partner with FP&A, HR, Data, and Product teams to validate results and improve reporting quality
-- Build controls across bonus, payroll, and accounting systems
-- Designed two production AI agents supporting policy access and payment-reconciliation auditing for 100+ managers
+| | |
+|---|---|
+| **Current role** | Commission Analyst · Mantu Group |
+| **Target direction** | FP&A · Finance BI · Financial/Data Analytics |
+| **Core strengths** | P&L · Variance analysis · Power BI · Controls · AI automation |
+| **Location** | Ho Chi Minh City, Vietnam |
 
 ## Featured project
 
-### [Power BI Business Performance Dashboard](https://github.com/TuanKhoi2411/power-bi-portfolio)
+### [Power BI Business Performance Dashboard →](https://github.com/TuanKhoi2411/power-bi-portfolio)
 
-A four-page, decision-focused Power BI report that moves from executive P&L monitoring to detailed performance drivers, segment contribution, and break-even analysis.
+A decision-focused report that moves from executive P&L monitoring to performance drivers, segment contribution, and break-even analysis.
 
-| Project proof | Detail |
+| 4 report pages | 73 visual containers | Downloadable PBIX |
+|:---:|:---:|:---:|
+| Overview · Breakdown · Segments · Breakeven | P&L · Revenue · Net profit · Opex · EBIT | Inspect the full interactive model |
+
+**Decision flow:** Executive signal → Driver analysis → Segment contribution → Break-even action
+
+[Read the complete case study](https://github.com/TuanKhoi2411/power-bi-portfolio) · [Download the Power BI report](https://github.com/TuanKhoi2411/power-bi-portfolio/raw/main/CP1_Nguyen%20Tuan%20Khoi_Redesign1.pbix)
+
+## Experience proof
+
+| Scope | Evidence |
 |---|---|
-| Pages | Overview, Breakdown, Segments, Breakeven |
-| Visual containers | 73 across the report |
-| Finance lenses | P&L, revenue, net profit, segments, break-even, Opex and EBIT |
-| Deliverable | Downloadable interactive Power BI report |
-
-[**Read the complete case study →**](https://github.com/TuanKhoi2411/power-bi-portfolio)
+| **Regional operations** | Lead commission closing cycles for **30+ managers** across SEA and Italy |
+| **Financial responsibility** | Approximately **EUR 500K annual scope** |
+| **Cross-functional control** | Partner with FP&A, HR, Data, and Product teams to validate results |
+| **Automation at scale** | Designed two production AI agents supporting **100+ managers** |
 
 ## Toolkit
 
-**Finance:** Budgeting & Forecasting · P&L Analysis · Financial Modeling · Audit & Reconciliation · Accounting & Compliance
+**Finance** — Budgeting & forecasting · P&L analysis · Financial modeling · Audit & reconciliation · Accounting controls
 
-**Analytics:** Power BI · Power Query · Excel · SQL · Python · Data Visualization · Data Transformation
+**Analytics** — Power BI · Power Query · Excel · SQL · Python · Data visualization
 
-**Automation:** AI Agents · Codex · Dust.tt · SharePoint-integrated workflows
+**Automation** — AI agents · Codex · Dust.tt · SharePoint-integrated workflows
 
 ## How I work
 
-```text
-Business question → Controlled data → Clear analysis → Management action
-```
+> **Business question → Controlled data → Clear analysis → Management action**
 
 I value clarity over noise, visible controls over black boxes, and analysis that helps people make better decisions.
 
-## Current build roadmap
+## Roadmap
 
-Track upcoming work in my [Portfolio & Career Roadmap](https://github.com/users/TuanKhoi2411/projects/1).
+Track active and upcoming work in my [Portfolio & Career Roadmap](https://github.com/users/TuanKhoi2411/projects/1).
 
-Planned portfolio expansion:
+Next case studies: finance reporting · AI policy Q&A · payment reconciliation audit · Python/SQL analytics.
 
-- Finance and management-reporting case studies
-- AI policy Q&A agent
-- Payment reconciliation audit agent
-- Python and SQL analytics projects
+## Contact
 
-<div align="center">
+Open to conversations around FP&A, finance analytics, business intelligence, and practical AI automation.
 
-[Personal Portfolio](https://tuan-khoi-portfolio.roninoah155a2.chatgpt.site) · [Power BI Project](https://github.com/TuanKhoi2411/power-bi-portfolio) · [Start a Conversation](mailto:tuankhoi24112003@gmail.com)
-
-<br />
-
-![Profile views](https://komarev.com/ghpvc/?username=TuanKhoi2411&color=141414&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
-  <div align="center">
-
-# Tuan Khoi
-
-### Developer · Maker · Building in public
-
-I turn ideas into thoughtful, useful software — one deliberate detail at a time.
-
-[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-D8FF4F?style=for-the-badge&logoColor=141414)](https://tuan-khoi-portfolio.roninoah155a2.chatgpt.site)
-[![Email](https://img.shields.io/badge/LET'S_TALK-141414?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuankhoi24112003@gmail.com)
-
-</div>
-
----
-
-### A little about me
-
-I'm curious by nature and precise by practice. I care about the space where clean engineering meets sharp product instinct, and I believe the best technology should feel effortless.
-
-- 🔭 Building my first public projects and experiments
-- 🌱 Learning continuously, shipping deliberately
-- 🤝 Open to ambitious ideas and thoughtful collaborations
-- 📍 Based in Thailand
-
-### How I work
-
-```text
-Thoughtful systems  →  Human interfaces  →  Useful outcomes
-```
-
-I value clarity over noise, momentum over perfection, and products that respect the people using them.
-
-### Right now
-
-This profile is the beginning of my public build log. New experiments, finished products, and lessons learned will appear here as they ship.
+[Personal portfolio](https://tuan-khoi-portfolio.roninoah155a2.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/tuan-khoi-nguyen) · [Email](mailto:tuankhoi24112003@gmail.com)
 
 <div align="center">
 
-[Explore my portfolio](https://tuan-khoi-portfolio.roninoah155a2.chatgpt.site) · [Start a conversation](mailto:tuankhoi24112003@gmail.com)
-
-<br />
-
-![Profile views](https://komarev.com/ghpvc/?username=TuanKhoi2411&color=141414&style=flat-square&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=TuanKhoi2411&color=D8FF4F&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-  
