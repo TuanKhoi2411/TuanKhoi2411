@@ -65,7 +65,7 @@ I value clarity over noise, visible controls over black boxes, and analysis that
 
 ## Roadmap
 
-Track active and upcoming work in my [Portfolio & Career Roadmap](https://github.com/users/TuanKhoi2411/projects/1).
+Explore the detailed [Finance Analytics Case Studies](https://github.com/TuanKhoi2411/finance-analytics-case-studies) or track delivery in my [Portfolio & Career Roadmap](https://github.com/users/TuanKhoi2411/projects/1).
 
 Next case studies: finance reporting · AI policy Q&A · payment reconciliation audit · Python/SQL analytics.
 
