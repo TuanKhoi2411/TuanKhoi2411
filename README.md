@@ -6,7 +6,7 @@
 
 I turn financial and operational data into controlled analysis, clear stories, and practical management action.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-D8FF4F?style=for-the-badge&logoColor=141414)](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-D8FF4F?style=for-the-badge&logoColor=141414)](https://tuankhoi2411.github.io/)
 [![Power BI](https://img.shields.io/badge/POWER_BI_CASE-F2C811?style=for-the-badge&logo=powerbi&logoColor=141414)](https://github.com/TuanKhoi2411/power-bi-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-khoi-nguyen)
 [![Email](https://img.shields.io/badge/EMAIL-141414?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuankhoi24112003@gmail.com)
