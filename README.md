@@ -32,6 +32,7 @@ I turn financial and operational data into controlled analysis, clear stories, a
 | [FP&A Operating Plan & Rolling Forecast](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/fpa-operating-plan) | Where will the business land versus budget and what action is required? | Driver-based revenue, headcount, opex, scenarios, cash forecast and controls |
 | [Finance Data Pipeline & Executive P&L](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/finance-bi-pipeline) | Which drivers explain performance and where should management investigate? | 5,832 synthetic records, Power Query, SQL, DAX and management reporting |
 | [FPT Valuation & DCF](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/fpt-fmva-valuation) | What is the business worth under transparent assumptions? | Official public data, five-year forecast, DCF, sensitivity and investment thesis |
+| [Power BI Business Performance Dashboard](https://tuankhoi2411.github.io/cases/power-bi-business-performance/) | How are profit, segments and break-even performance changing? | Four report pages, 73 visual containers, interactive filtering and downloadable PBIX |
 
 > **Decision flow:** Business question → Controlled data → Clear analysis → Management action
 
