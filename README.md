@@ -32,11 +32,27 @@ I turn financial and operational data into controlled analysis, clear stories, a
 | [FP&A Operating Plan & Rolling Forecast](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/fpa-operating-plan) | Where will the business land versus budget and what action is required? | Driver-based revenue, headcount, opex, scenarios, cash forecast and controls |
 | [Finance Data Pipeline & Executive P&L](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/finance-bi-pipeline) | Which drivers explain performance and where should management investigate? | 5,832 synthetic records, Power Query, SQL, DAX and management reporting |
 | [FPT Valuation & DCF](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/fpt-fmva-valuation) | What is the business worth under transparent assumptions? | Official public data, five-year forecast, DCF, sensitivity and investment thesis |
-| [Power BI Business Performance Dashboard](https://github.com/TuanKhoi2411/power-bi-portfolio) | How are profit, segments and break-even performance changing? | Four report pages, 73 visual containers and downloadable PBIX |
-
-[![Open Power BI Case](https://img.shields.io/badge/OPEN_POWER_BI_CASE-F2C811?style=for-the-badge&logo=powerbi&logoColor=141414)](https://github.com/TuanKhoi2411/power-bi-portfolio)
 
 > **Decision flow:** Business question → Controlled data → Clear analysis → Management action
+
+### Power BI Business Performance Dashboard
+
+**Management question:** How can management move from a high-level P&L view to the drivers behind performance, segment contribution and break-even dynamics?
+
+The report is organized as a management-review journey rather than a collection of disconnected charts:
+
+| Report page | Decision lens |
+|---|---|
+| **01 · Overview** | Establish KPI direction, monthly revenue, net profit and the executive P&L view |
+| **02 · Breakdown** | Move below the headline into operating drivers and supporting detail |
+| **03 · Segments** | Compare contribution and performance across business segments |
+| **04 · Breakeven** | Review profitability thresholds and the relationship between Opex and EBIT |
+
+**Evidence:** 4 report pages · 73 visual containers · Interactive filtering · Downloadable PBIX
+
+[![Read case study](https://img.shields.io/badge/READ_CASE_STUDY-D8FF4F?style=for-the-badge&logoColor=141414)](https://tuankhoi2411.github.io/cases/power-bi-business-performance/)
+[![Inspect project](https://img.shields.io/badge/INSPECT_ON_GITHUB-141414?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuanKhoi2411/power-bi-portfolio)
+[![Download PBIX](https://img.shields.io/badge/DOWNLOAD_PBIX-F2C811?style=for-the-badge&logo=powerbi&logoColor=141414)](https://github.com/TuanKhoi2411/power-bi-portfolio/raw/main/CP1_Nguyen%20Tuan%20Khoi_Redesign1.pbix)
 
 ## Experience proof
 
