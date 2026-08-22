@@ -8,7 +8,7 @@ I turn financial and operational data into controlled analysis, clear stories, a
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-D8FF4F?style=for-the-badge&logoColor=141414)](https://tuankhoi2411.github.io/)
 [![Power BI](https://img.shields.io/badge/POWER_BI_CASE-F2C811?style=for-the-badge&logo=powerbi&logoColor=141414)](https://github.com/TuanKhoi2411/power-bi-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-khoi-nguyen)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-khoi-nguyen-324139316/)
 [![Email](https://img.shields.io/badge/EMAIL-141414?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuankhoi24112003@gmail.com)
 
 [Portfolio](#featured-portfolio) · [Experience](#experience-proof) · [Toolkit](#toolkit) · [Contact](#contact)
@@ -68,7 +68,7 @@ I value clarity over noise, visible controls over black boxes, and analysis that
 
 Open to conversations around FP&A, finance analytics, business intelligence and practical automation.
 
-[Finance case studies](https://github.com/TuanKhoi2411/finance-analytics-case-studies) · [Power BI portfolio](https://github.com/TuanKhoi2411/power-bi-portfolio) · [LinkedIn](https://www.linkedin.com/in/tuan-khoi-nguyen) · [Email](mailto:tuankhoi24112003@gmail.com)
+[Finance case studies](https://github.com/TuanKhoi2411/finance-analytics-case-studies) · [Power BI portfolio](https://github.com/TuanKhoi2411/power-bi-portfolio) · [LinkedIn](https://www.linkedin.com/in/tuan-khoi-nguyen-324139316/) · [Email](mailto:tuankhoi24112003@gmail.com)
 
 <div align="center">
 
