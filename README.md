@@ -4,7 +4,7 @@
 
 ### Finance & Data Analytics · FP&A · Power BI · Financial Modeling
 
-I turn financial and operational data into controlled analysis, clear stories, and practical management action.
+I turn financial and operational data into planning models, decision-ready dashboards, clear stories, and practical management action.
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-D8FF4F?style=for-the-badge&logoColor=141414)](https://tuankhoi2411.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-khoi-nguyen-324139316/)
@@ -22,17 +22,31 @@ I turn financial and operational data into controlled analysis, clear stories, a
 |---|---|
 | **Current role** | Commission Analyst · Mantu Group |
 | **Target direction** | FP&A · Finance BI · Financial/Data Analytics |
+| **Portfolio evidence** | 5 financial models · 5 Power BI dashboards · 17 report pages |
 | **Core strengths** | P&L · Forecasting · Variance analysis · Power BI · Controls · Automation |
 | **Location** | Ho Chi Minh City, Vietnam |
 
-## Projects
+## Projects — 10 decision products
+
+### Financial models
 
 | Case study | Decision supported | Evidence |
 |---|---|---|
-| [FP&A Operating Plan & Rolling Forecast](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/fpa-operating-plan) | Where will the business land versus budget and what action is required? | Driver-based revenue, headcount, opex, scenarios, cash forecast and controls |
-| [Finance Data Pipeline & Executive P&L](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/finance-bi-pipeline) | Which drivers explain performance and where should management investigate? | 5,832 synthetic records, Power Query, SQL, DAX and management reporting |
-| [FPT Valuation & DCF](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/fpt-fmva-valuation) | What is the business worth under transparent assumptions? | Official public data, five-year forecast, DCF, sensitivity and investment thesis |
-| [Power BI Business Performance Dashboard](https://github.com/TuanKhoi2411/power-bi-portfolio) | How are profit, segments and break-even performance changing? | Four report pages, 73 visual containers, interactive filtering and downloadable PBIX |
+| [Operating Plan & Rolling Forecast](https://tuankhoi2411.github.io/cases/fpa-operating-plan/) | Where will the business land versus budget, and what action is required? | Revenue, headcount, opex, scenarios, cash forecast and controls |
+| [Finance Data Pipeline & Executive P&L](https://tuankhoi2411.github.io/cases/finance-data-pipeline/) | Which drivers explain performance, and where should management investigate? | 5,832 synthetic records, Power Query, SQL, DAX and management reporting |
+| [FPT Valuation & DCF](https://tuankhoi2411.github.io/cases/fpt-valuation/) | What is the business worth under transparent assumptions? | Official public data, five-year forecast, DCF and sensitivity analysis |
+| [13-Week Cash & Working Capital](https://tuankhoi2411.github.io/cases/working-capital-cash/) | How can management protect liquidity and release cash? | Receivables, payables, inventory actions, commitments and facility capacity |
+| [CAPEX Business Case & IC Pack](https://tuankhoi2411.github.io/cases/capex-investment-committee/) | Should the investment be approved, deferred or rejected? | Eight-year cash flow, NPV, IRR, sensitivities, risks and approval gates |
+
+### Power BI dashboards
+
+| Dashboard | Decision supported | Evidence |
+|---|---|---|
+| [UK Online Retail — Sales Performance](https://tuankhoi2411.github.io/power-bi/cases/sales-performance/) | Where is growth coming from, and how do returns affect sales quality? | 3 report pages · £9.75M net sales · 129 measures |
+| [Portuguese Bank — Marketing Performance](https://tuankhoi2411.github.io/power-bi/cases/marketing-performance/) | Which audiences and campaign conditions are associated with conversion? | 3 report pages · 41,188 contacts · 72 measures |
+| [Apple Inc. — Financial Performance](https://tuankhoi2411.github.io/power-bi/cases/finance-performance/) | Are growth, margins, liquidity and cost structure moving sustainably? | 3 report pages · SEC EDGAR data · 141 measures |
+| [FinTech — Credit Risk Performance](https://tuankhoi2411.github.io/power-bi/cases/credit-risk-performance/) | Where is risk concentrated, and how should pricing respond? | 4 report pages · pricing and portfolio views · 184 measures |
+| [Sports & Health — Financial Performance](https://tuankhoi2411.github.io/power-bi/cases/sports-health-performance/) | Which segment, cost and break-even drivers explain profitability? | 4 report pages · $17.56M revenue · 24.6% net margin |
 
 > **Decision flow:** Business question → Controlled data → Clear analysis → Management action
 
@@ -43,7 +57,7 @@ I turn financial and operational data into controlled analysis, clear stories, a
 | **Regional operations** | Lead commission closing cycles for **30+ managers** across SEA and Italy |
 | **Financial responsibility** | Approximately **EUR 500K annual scope** |
 | **Cross-functional control** | Partner with FP&A, HR, Data and Product teams to validate results |
-| **Automation at scale** | Designed two production AI agents supporting **100+ managers** |
+| **Automation at scale** | Designed three production AI agents supporting commission controls across **100+ managers** |
 
 ## Toolkit
 
@@ -51,7 +65,7 @@ I turn financial and operational data into controlled analysis, clear stories, a
 
 **Analytics** — Power BI · Power Query · Excel · SQL · Python · Data visualization
 
-**Automation** — AI agents · Codex · Dust.tt · SharePoint-integrated workflows
+**Automation** — Agentic AI · Codex · Dust.tt · RAG · Human-in-the-loop controls · SharePoint-integrated workflows
 
 ## How I work
 
@@ -59,9 +73,9 @@ I value clarity over noise, visible controls over black boxes, and analysis that
 
 ## Current build priorities
 
+- Public-safe Agentic AI case studies — **in progress**
 - Forecast-accuracy and bias monitoring
 - Payment-reconciliation audit with SQL and Python
-- Comparable-company valuation and integrated three-statement modeling
 
 ## Contact
 
