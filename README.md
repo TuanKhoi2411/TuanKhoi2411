@@ -32,21 +32,21 @@ I turn financial and operational data into planning models, decision-ready dashb
 
 | Case study | Decision supported | Evidence |
 |---|---|---|
-| [Operating Plan & Rolling Forecast](https://tuankhoi2411.github.io/cases/fpa-operating-plan/) | Where will the business land versus budget, and what action is required? | Revenue, headcount, opex, scenarios, cash forecast and controls |
-| [Finance Data Pipeline & Executive P&L](https://tuankhoi2411.github.io/cases/finance-data-pipeline/) | Which drivers explain performance, and where should management investigate? | 5,832 synthetic records, Power Query, SQL, DAX and management reporting |
-| [FPT Valuation & DCF](https://tuankhoi2411.github.io/cases/fpt-valuation/) | What is the business worth under transparent assumptions? | Official public data, five-year forecast, DCF and sensitivity analysis |
-| [13-Week Cash & Working Capital](https://tuankhoi2411.github.io/cases/working-capital-cash/) | How can management protect liquidity and release cash? | Receivables, payables, inventory actions, commitments and facility capacity |
-| [CAPEX Business Case & IC Pack](https://tuankhoi2411.github.io/cases/capex-investment-committee/) | Should the investment be approved, deferred or rejected? | Eight-year cash flow, NPV, IRR, sensitivities, risks and approval gates |
+| [Operating Plan & Rolling Forecast](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/fpa-operating-plan) | Where will the business land versus budget, and what action is required? | Revenue, headcount, opex, scenarios, cash forecast and controls |
+| [Finance Data Pipeline & Executive P&L](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/finance-bi-pipeline) | Which drivers explain performance, and where should management investigate? | 5,832 synthetic records, Power Query, SQL, DAX and management reporting |
+| [FPT Valuation & DCF](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/fpt-fmva-valuation) | What is the business worth under transparent assumptions? | Official public data, five-year forecast, DCF and sensitivity analysis |
+| [13-Week Cash & Working Capital](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/working-capital-13-week-cash) | How can management protect liquidity and release cash? | Receivables, payables, inventory actions, commitments and facility capacity |
+| [CAPEX Business Case & IC Pack](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/capex-investment-committee) | Should the investment be approved, deferred or rejected? | Eight-year cash flow, NPV, IRR, sensitivities, risks and approval gates |
 
 ### Power BI dashboards
 
 | Dashboard | Decision supported | Evidence |
 |---|---|---|
-| [UK Online Retail — Sales Performance](https://tuankhoi2411.github.io/power-bi/cases/sales-performance/) | Where is growth coming from, and how do returns affect sales quality? | 3 report pages · £9.75M net sales · 129 measures |
-| [Portuguese Bank — Marketing Performance](https://tuankhoi2411.github.io/power-bi/cases/marketing-performance/) | Which audiences and campaign conditions are associated with conversion? | 3 report pages · 41,188 contacts · 72 measures |
-| [Apple Inc. — Financial Performance](https://tuankhoi2411.github.io/power-bi/cases/finance-performance/) | Are growth, margins, liquidity and cost structure moving sustainably? | 3 report pages · SEC EDGAR data · 141 measures |
-| [FinTech — Credit Risk Performance](https://tuankhoi2411.github.io/power-bi/cases/credit-risk-performance/) | Where is risk concentrated, and how should pricing respond? | 4 report pages · pricing and portfolio views · 184 measures |
-| [Sports & Health — Financial Performance](https://tuankhoi2411.github.io/power-bi/cases/sports-health-performance/) | Which segment, cost and break-even drivers explain profitability? | 4 report pages · $17.56M revenue · 24.6% net margin |
+| [UK Online Retail — Sales Performance](https://github.com/TuanKhoi2411/power-bi-portfolio/tree/main/projects/sales-performance) | Where is growth coming from, and how do returns affect sales quality? | 3 report pages · £9.75M net sales · 129 measures |
+| [Portuguese Bank — Marketing Performance](https://github.com/TuanKhoi2411/power-bi-portfolio/tree/main/projects/marketing-performance) | Which audiences and campaign conditions are associated with conversion? | 3 report pages · 41,188 contacts · 72 measures |
+| [Apple Inc. — Financial Performance](https://github.com/TuanKhoi2411/power-bi-portfolio/tree/main/projects/finance-performance) | Are growth, margins, liquidity and cost structure moving sustainably? | 3 report pages · SEC EDGAR data · 141 measures |
+| [FinTech — Credit Risk Performance](https://github.com/TuanKhoi2411/power-bi-portfolio/tree/main/projects/credit-risk-performance) | Where is risk concentrated, and how should pricing respond? | 4 report pages · pricing and portfolio views · 184 measures |
+| [Sports & Health — Financial Performance](https://github.com/TuanKhoi2411/power-bi-portfolio/tree/main/projects/financial-performance-dashboard) | Which segment, cost and break-even drivers explain profitability? | 4 report pages · $17.56M revenue · 24.6% net margin |
 
 ### Python automation
 
