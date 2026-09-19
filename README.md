@@ -22,11 +22,11 @@ I turn financial and operational data into planning models, decision-ready dashb
 |---|---|
 | **Current role** | Commission Analyst · Mantu Group |
 | **Target direction** | FP&A · Finance BI · Financial/Data Analytics |
-| **Portfolio evidence** | 5 financial models · 5 Power BI dashboards · 17 report pages |
+| **Portfolio evidence** | 5 financial models · 5 Power BI dashboards · 1 Python automation workflow |
 | **Core strengths** | P&L · Forecasting · Variance analysis · Power BI · Controls · Automation |
 | **Location** | Ho Chi Minh City, Vietnam |
 
-## Projects — 10 decision products
+## Projects — 11 decision products
 
 ### Financial models
 
@@ -47,6 +47,12 @@ I turn financial and operational data into planning models, decision-ready dashb
 | [Apple Inc. — Financial Performance](https://tuankhoi2411.github.io/power-bi/cases/finance-performance/) | Are growth, margins, liquidity and cost structure moving sustainably? | 3 report pages · SEC EDGAR data · 141 measures |
 | [FinTech — Credit Risk Performance](https://tuankhoi2411.github.io/power-bi/cases/credit-risk-performance/) | Where is risk concentrated, and how should pricing respond? | 4 report pages · pricing and portfolio views · 184 measures |
 | [Sports & Health — Financial Performance](https://tuankhoi2411.github.io/power-bi/cases/sports-health-performance/) | Which segment, cost and break-even drivers explain profitability? | 4 report pages · $17.56M revenue · 24.6% net margin |
+
+### Python automation
+
+| Project | Decision supported | Evidence |
+|---|---|---|
+| [Monthly Reporting Automation](https://github.com/TuanKhoi2411/python-monthly-reporting-automation) | How can fragmented monthly Excel inputs become a traceable, review-ready reporting pack? | 136 manager P&L workbooks · 4 supporting files · KPI report, P&L audit and performance analysis |
 
 > **Decision flow:** Business question → Controlled data → Clear analysis → Management action
 
@@ -81,7 +87,7 @@ I value clarity over noise, visible controls over black boxes, and analysis that
 
 Open to conversations around FP&A, finance analytics, business intelligence and practical automation.
 
-[Finance case studies](https://github.com/TuanKhoi2411/finance-analytics-case-studies) · [Power BI portfolio](https://github.com/TuanKhoi2411/power-bi-portfolio) · [LinkedIn](https://www.linkedin.com/in/tuan-khoi-nguyen-324139316/) · [Email](mailto:tuankhoi24112003@gmail.com)
+[Finance case studies](https://github.com/TuanKhoi2411/finance-analytics-case-studies) · [Power BI portfolio](https://github.com/TuanKhoi2411/power-bi-portfolio) · [Python automation](https://github.com/TuanKhoi2411/python-monthly-reporting-automation) · [LinkedIn](https://www.linkedin.com/in/tuan-khoi-nguyen-324139316/) · [Email](mailto:tuankhoi24112003@gmail.com)
 
 <div align="center">
 
