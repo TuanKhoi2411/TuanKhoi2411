@@ -20,23 +20,19 @@ I turn financial and operational data into planning models, decision-ready dashb
 
 | | |
 |---|---|
-| **Current role** | Commission Analyst · Mantu Group |
+| **Current role** | Group Controlling Officer · Mantu Group |
 | **Target direction** | FP&A · Finance BI · Financial/Data Analytics |
-| **Portfolio evidence** | 5 financial models · 5 Power BI dashboards · 1 Python automation workflow |
+| **Portfolio evidence** | 1 financial model · 5 Power BI dashboards · 1 Python automation workflow |
 | **Core strengths** | P&L · Forecasting · Variance analysis · Power BI · Controls · Automation |
 | **Location** | Ho Chi Minh City, Vietnam |
 
-## Projects — 11 decision products
+## Projects — 7 decision products
 
-### Financial models
+### Financial model
 
 | Case study | Decision supported | Evidence |
 |---|---|---|
-| [Operating Plan & Rolling Forecast](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/fpa-operating-plan) | Where will the business land versus budget, and what action is required? | Revenue, headcount, opex, scenarios, cash forecast and controls |
-| [Finance Data Pipeline & Executive P&L](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/finance-bi-pipeline) | Which drivers explain performance, and where should management investigate? | 5,832 synthetic records, Power Query, SQL, DAX and management reporting |
-| [FPT Valuation & DCF](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/fpt-fmva-valuation) | What is the business worth under transparent assumptions? | Official public data, five-year forecast, DCF and sensitivity analysis |
-| [13-Week Cash & Working Capital](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/working-capital-13-week-cash) | How can management protect liquidity and release cash? | Receivables, payables, inventory actions, commitments and facility capacity |
-| [CAPEX Business Case & IC Pack](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/capex-investment-committee) | Should the investment be approved, deferred or rejected? | Eight-year cash flow, NPV, IRR, sensitivities, risks and approval gates |
+| [OnPoint ValueBridge](https://github.com/TuanKhoi2411/finance-analytics-case-studies/tree/main/projects/onpoint-valuebridge) | Can a proposed fee-only inventory-recovery service become financially viable? | Excel model with nine sheets, eight scenario drivers and a 25-slide presentation |
 
 ### Power BI dashboards
 
