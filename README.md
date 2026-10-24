@@ -56,10 +56,11 @@ I turn financial and operational data into planning models, decision-ready dashb
 
 | Scope | Evidence |
 |---|---|
-| **Regional operations** | Lead commission closing cycles for **30+ managers** across SEA and Italy |
-| **Financial responsibility** | Approximately **EUR 500K annual scope** |
-| **Cross-functional control** | Partner with FP&A, HR, Data and Product teams to validate results |
-| **Automation at scale** | Designed three production AI agents supporting commission controls across **100+ managers** |
+| **Regional commission closing** | Lead monthly, quarterly and annual cycles for **45+ managers** across Asia, MENA and Southern Europe, covering approximately **€500K in annual payouts** |
+| **Group P&L control** | Review P&L data for **200+ managers**; identify approximately **30 discrepancies monthly** and resolve **95% before closing** |
+| **Business partnering** | Work with FP&A, HR and business teams on allocations, payout risk and reporting; identified approximately **€4K in potential overpayment exposure** over six months |
+| **Automation & reconciliation** | Deployed **three AI agents** for policy support, payment auditing and variance analysis; reduced audit preparation from **1 hour to 10 minutes** |
+| **Earlier finance analysis** | At KinLiving, standardized data for **200+ vendors and 700+ customers** and supported P&L, cash flow, A/R and investor reporting |
 
 ## Toolkit
 
